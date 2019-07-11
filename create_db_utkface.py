@@ -6,6 +6,9 @@ import scipy.io
 import cv2
 
 
+
+# demo file
+
 def get_args():
     parser = argparse.ArgumentParser(description="This script creates database for training from the UTKFace dataset.",
                                      formatter_class=argparse.ArgumentDefaultsHelpFormatter)
